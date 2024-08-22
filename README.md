@@ -22,7 +22,7 @@ A repository is where your project work happens--think of it as your project fol
 
 ### Cloning 
 
-When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
+When a repository is created with GitHub, it’s stored remotely in the cloud. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
 To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 ### Committing and pushing
@@ -84,7 +84,7 @@ To learn more about following users, read ["Following People"](https://docs.gith
 
 #### Browsing GitHub Explore 
 
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
+GitHub Explore is a great place to do just that … explore :).You can find new projects, events, and developers to interact with.
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
